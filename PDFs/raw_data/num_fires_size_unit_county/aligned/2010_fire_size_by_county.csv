@@ -1,0 +1,54 @@
+county,.25 acres or <,.26-9.99 acres,10-99 acres,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >,year,region
+Alameda,12,26,4,2,1,0,0,2010,north
+Amador,25,15,1,0,0,0,0,2010,north
+Butte,38,40,6,1,0,0,0,2010,north
+Calaveras,45,38,1,1,0,0,0,2010,south
+Colusa,0,4,0,0,0,0,0,2010,north
+Contra Costa,26,10,2,2,0,0,0,2010,north
+Del Norte,17,7,0,0,0,0,0,2010,north
+E. San Joaquin,3,3,1,0,0,0,0,2010,south
+E. Stanislaus,15,16,1,0,0,0,0,2010,south
+E. Trinity,9,5,0,0,0,0,0,2010,north
+El Dorado,69,38,2,0,0,0,0,2010,north
+Fresno,13,36,1,1,0,0,0,2010,south
+Glenn,0,4,0,0,0,0,0,2010,north
+Humboldt,56,24,0,1,0,0,0,2010,north
+Inyo,12,2,0,0,0,0,0,2010,south
+Kings,0,1,0,0,0,0,0,2010,south
+Lake,20,24,0,0,1,0,0,2010,north
+Lassen,22,9,2,1,0,0,0,2010,north
+Madera,23,23,2,0,0,0,0,2010,south
+Mariposa,10,17,4,0,0,0,0,2010,south
+Mendocino,45,36,6,0,0,0,0,2010,north
+Merced,6,11,5,4,1,1,0,2010,south
+Modoc,10,5,1,0,0,0,0,2010,north
+Monterey,16,26,11,0,0,0,0,2010,south
+Napa,14,29,5,0,0,0,0,2010,north
+Nevada,37,35,0,0,0,0,0,2010,north
+Placer,48,57,5,0,0,0,0,2010,north
+Plumas,0,0,0,0,0,0,0,2010,north
+Plumas,6,1,0,0,0,0,0,2010,north
+Riverside,45,113,17,4,3,1,0,2010,south
+Sacramento,5,15,2,1,0,0,0,2010,north
+San Benito,4,12,6,0,0,0,0,2010,south
+San Bernardino,52,60,4,0,0,0,0,2010,south
+San Diego,65,59,7,3,1,1,0,2010,south
+San Joaquin,4,6,0,0,0,0,0,2010,north
+San Luis Obispo,23,48,4,3,0,1,0,2010,south
+San Mateo,8,7,0,0,0,0,0,2010,north
+Santa Clara,12,22,3,0,0,0,0,2010,north
+Santa Cruz,25,21,0,0,0,0,0,2010,north
+Shasta,36,67,5,1,0,0,0,2010,north
+Sierra,0,3,0,0,0,0,0,2010,north
+Siskiyou,37,18,2,0,0,0,0,2010,north
+Solano,2,11,1,0,0,0,0,2010,north
+Sonoma,36,36,3,0,0,0,0,2010,north
+Tehama,25,31,3,0,0,0,0,2010,north
+Trinity,1,0,0,0,0,0,0,2010,north
+Tulare,28,31,11,4,2,0,0,2010,south
+Tuolumne,16,36,7,0,0,0,0,2010,south
+W. San Joaquin,9,8,3,1,0,0,0,2010,north
+W. Stanislaus,7,16,2,0,1,0,0,2010,north
+W. Trinity,0,0,0,0,0,0,0,2010,north
+Yolo,1,7,1,0,0,0,0,2010,north
+Yuba,16,24,1,0,0,1,0,2010,north

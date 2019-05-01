@@ -1,0 +1,39 @@
+county,Arson,Campfire,Debris Burning,Elec. Power,Equip. Use,Ltng.,Misc.,P-W-F,Railroad,Smoking,Undet.,Vehicle,year,region
+Amador,2,3,14,6,12,1,15,1,0,0,9,4,2014,north
+El Dorado,3,3,41,11,18,9,32,5,0,4,26,22,2014,north
+Sacramento,1,0,1,2,2,0,2,0,0,0,5,2,2014,north
+San Joaquin,0,0,0,0,2,0,0,0,0,0,3,1,2014,north
+Butte,40,2,34,11,9,4,47,6,0,2,22,15,2014,north
+Tehama,0,0,0,0,0,0,1,0,0,0,0,0,2014,north
+Del Norte,2,7,3,0,0,1,4,1,0,0,8,1,2014,north
+Humboldt,40,17,8,8,4,0,15,0,0,2,30,3,2014,north
+Lassen,1,2,12,0,2,40,1,0,0,0,7,2,2014,north
+Modoc,0,0,4,0,0,5,0,0,0,0,2,0,2014,north
+Plumas,0,0,1,0,0,1,2,0,0,0,3,0,2014,north
+Shasta,0,0,0,0,0,0,0,0,0,0,0,0,2014,north
+Siskiyou,0,0,1,0,0,0,0,0,0,0,0,0,2014,north
+Mendocino,17,6,22,11,6,4,34,1,0,2,20,15,2014,north
+Nevada,3,4,20,7,5,2,7,0,0,3,21,3,2014,north
+Placer,1,4,16,10,16,5,13,3,3,5,44,6,2014,north
+Sierra,0,0,0,0,0,0,0,0,0,0,0,0,2014,north
+Sutter,0,0,0,0,0,0,0,0,0,0,0,0,2014,north
+Yuba,2,1,11,6,2,1,5,0,0,2,17,2,2014,north
+San Mateo,0,0,1,2,0,0,1,1,0,0,6,1,2014,north
+Santa Cruz,11,7,11,8,2,0,5,1,0,2,13,2,2014,north
+Alameda,0,1,0,6,5,0,1,0,0,1,13,6,2014,north
+Contra Costa,1,1,1,5,1,0,3,0,0,0,15,2,2014,north
+Santa Clara,2,3,0,3,5,0,2,1,0,3,13,5,2014,north
+W. San Joaquin,0,0,0,0,0,0,0,0,0,0,0,0,2014,north
+W. Stanislaus,0,0,0,0,0,0,0,0,0,0,8,7,2014,north
+E. Trinity,3,0,4,0,0,5,2,0,0,0,0,1,2014,north
+Shasta (Shasta-Trinity),15,6,38,4,15,17,15,4,0,6,24,20,2014,north
+Shasta (Siskiyou),0,1,0,0,0,0,0,0,0,0,1,0,2014,north
+Siskiyou,5,5,8,5,2,47,62,0,1,2,18,5,2014,north
+Colusa,0,0,0,0,0,0,0,1,0,0,0,1,2014,north
+Lake,0,4,9,4,2,0,11,6,0,0,15,11,2014,north
+Napa,5,0,6,12,5,0,13,0,0,1,11,5,2014,north
+Solano,0,0,2,0,3,0,3,0,0,0,3,1,2014,north
+Sonoma,4,13,24,21,14,0,21,1,0,0,11,11,2014,north
+Yolo,0,0,0,2,6,0,3,0,0,1,4,1,2014,north
+Glenn,0,0,0,0,0,0,2,0,0,0,2,0,2014,north
+Tehama,1,0,10,2,7,4,14,2,0,0,23,5,2014,north

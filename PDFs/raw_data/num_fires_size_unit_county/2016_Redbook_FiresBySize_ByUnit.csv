@@ -1,0 +1,28 @@
+"",,A,B,C,D,E,F,G
+"",Total,.25 acres or <,.26-9.99 acres,10-99 acres,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >
+NORTHERN REGION,,,,,,,,
+Amador-El Dorado,248,156,76,13,2,1,0,0
+Butte,2,1,1,0,0,0,0,0
+Humboldt-Del Norte,133,95,32,4,1,1,0,0
+Lassen-Modoc,43,26,14,1,0,1,1,0
+Mendocino,118,84,29,5,0,0,0,0
+Nevada-Yuba-Placer,319,229,81,7,0,1,0,1
+San Mateo-Santa Cruz,55,46,8,1,0,0,0,0
+Santa Clara,121,46,49,20,5,0,1,0
+Shasta-Trinity,131,77,48,5,0,1,0,0
+Siskiyou,161,138,18,4,0,1,0,0
+Sonoma-Lake-Napa,278,186,75,13,1,0,2,1
+Tehama-Glenn,63,34,20,7,0,2,0,0
+TOTAL,"1,672","1,118",451,80,9,8,4,2
+SOUTHERN REGION,,,,,,,,
+Fresno-Kings,108,58,37,3,7,0,2,1
+Madera-Mariposa,176,76,84,14,1,0,1,0
+Riverside,133,84,42,3,3,0,1,0
+San Benito-Monterey,81,36,32,9,2,0,1,1
+San Bernardino,112,90,21,0,1,0,0,0
+San Diego,131,87,37,5,1,0,0,1
+San Luis Obispo,146,71,65,8,1,0,0,1
+Tulare,71,18,46,7,0,0,0,0
+Tuolumne-Calaveras,186,108,60,14,0,3,1,0
+TOTAL,"1,144",628,424,63,16,3,6,4
+STATE TOTAL,"2,816","1,746",875,143,25,11,10,6

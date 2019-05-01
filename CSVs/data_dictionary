@@ -1,0 +1,39 @@
+arson_num_fire_cause
+campfire_num_fire_cause
+debris_burning_num_fire_cause
+equip_use_num_fire_cause
+ltng_num_fire_cause
+misc_num_fire_cause
+p-w-f_num_fire_cause
+powerline_num_fire_cause
+railroad_num_fire_cause
+smoking_num_fire_cause
+undet_num_fire_cause
+vehicle_num_fire_cause
+.25_acres_or_<_num_fire_size
+.26-9.99_acres_num_fire_size
+10-99_acres_num_fire_size
+100-299_acres_num_fire_size
+300-999_acres_num_fire_size
+1000-4999_acres_num_fire_size
+5000_acres_>_num_fire_size
+arson_num_acres_cause
+campfire_num_acres_cause
+debris_burning_num_acres_cause
+equip_use_num_acres_cause
+ltng_num_acres_cause
+misc_num_acres_cause
+p-w-f_num_acres_cause
+powerline_num_acres_cause
+railroad_num_acres_cause
+
+
+
+
+awnd = average wind
+evap = evaporation
+prcp = preciptation 
+snow = snowfall
+tavg = temperature average
+t max = temperature maximum
+wdmv = wind movement

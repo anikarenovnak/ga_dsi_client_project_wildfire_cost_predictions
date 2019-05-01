@@ -1,0 +1,52 @@
+north,.25 acres or <,.26-9.99 acres,10-99 acres,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >,year,region
+Alameda,13,20,11,2,0,0,0,2013,north
+Amador,44,18,1,1,0,0,0,2013,north
+Butte,131,64,10,3,1,1,0,2013,north
+Calaveras,40,53,5,0,0,0,0,2013,south
+Colusa,4,5,0,0,0,0,0,2013,north
+Contra Costa,25,10,5,1,1,1,0,2013,north
+Del Norte,7,5,0,0,0,0,0,2013,north
+E. San Joaquin,0,3,3,0,1,0,0,2013,south
+E. Stanislaus,9,11,3,0,0,0,0,2013,south
+E. Trinity,18,22,0,0,0,0,0,2013,north
+El Dorado,170,59,5,3,0,0,0,2013,north
+Fresno,16,41,4,3,0,0,0,2013,south
+Glenn,8,5,0,1,0,0,0,2013,north
+Humboldt,70,73,5,1,0,0,0,2013,north
+Inyo,15,5,1,0,1,0,0,2013,south
+Kings,2,2,0,0,0,0,0,2013,south
+Lake,36,35,8,2,1,0,0,2013,north
+Lassen,48,20,3,0,0,0,0,2013,north
+Madera,46,43,10,2,1,0,0,2013,south
+Mariposa,16,19,3,0,0,0,0,2013,south
+Mendocino,78,64,3,2,1,0,0,2013,north
+Merced,4,12,3,1,0,0,0,2013,south
+Modoc,7,12,4,0,1,0,0,2013,north
+Monterey,33,34,2,1,0,0,0,2013,south
+Napa,26,20,3,0,1,0,0,2013,north
+Nevada,79,44,2,0,0,0,0,2013,north
+Placer,73,66,4,0,0,0,0,2013,north
+Plumas,10,2,0,0,0,0,0,2013,north
+Riverside,148,59,9,5,1,0,2,2013,south
+Sacramento,3,13,1,0,0,0,0,2013,north
+San Benito,8,9,1,0,1,0,0,2013,south
+San Bernardino,74,27,2,0,1,0,0,2013,south
+San Diego,99,75,15,5,0,2,1,2013,south
+San Joaquin,2,4,1,0,0,0,0,2013,north
+San Luis Obispo,63,54,5,0,0,0,0,2013,south
+San Mateo,9,10,0,0,0,0,0,2013,north
+Santa Clara,15,20,2,1,0,0,0,2013,north
+Santa Cruz,68,20,1,0,0,0,0,2013,north
+Shasta,80,130,8,1,0,0,1,2013,north
+Sierra,0,2,0,0,0,0,0,2013,north
+Siskiyou,119,20,2,0,0,0,0,2013,north
+Solano,9,21,6,0,0,0,0,2013,north
+Sonoma,109,76,8,2,0,1,0,2013,north
+Sutter,0,1,0,0,0,0,0,2013,north
+Tehama,27,39,6,3,0,0,1,2013,north
+Tulare,25,29,4,2,0,0,0,2013,south
+Tuolumne,53,28,1,1,0,0,0,2013,south
+W. San Joaquin,4,1,0,0,0,0,0,2013,north
+W. Stanislaus,4,7,1,1,0,0,0,2013,north
+Yolo,6,13,0,1,0,0,0,2013,north
+Yuba,10,37,4,0,0,0,0,2013,north

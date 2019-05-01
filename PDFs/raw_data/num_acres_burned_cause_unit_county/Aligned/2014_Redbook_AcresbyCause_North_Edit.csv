@@ -1,0 +1,56 @@
+NORTHERN REGION,Total,Arson,Campfire,Debris Burning,Elec. Power,Equip. Use,Ltng.,Misc.,P-W-F,Railroad,Smoking,Undet.,Vehicle,Year,Region
+Amador,179,0,1,24,1,11,7,118,10,0,0,4,3,2014,Northern
+El Dorado,"102,085","97,718",0,25,2,29,2,31,1,0,5,18,"4,254",2014,Northern
+Sacramento,94,0,0,2,26,3,0,3,0,0,0,56,4,2014,Northern
+San Joaquin,30,0,0,0,0,0,0,0,0,0,0,18,12,2014,Northern
+Butte,559,85,0,17,9,402,1,3,5,0,3,26,8,2014,Northern
+Tehama,5,0,0,0,0,0,0,5,0,0,0,0,0,2014,Northern
+Del Norte,14,3,4,0,0,0,0,0,1,0,0,6,0,2014,Northern
+Humboldt,596,39,10,340,25,100,0,2,0,0,0,75,5,2014,Northern
+Lassen,"13,220",0,0,12,0,0,"13,204",0,0,0,0,4,0,2014,Northern
+Modoc,18,0,0,4,0,0,14,0,0,0,0,0,0,2014,Northern
+Plumas,0,0,0,0,0,0,0,0,0,0,0,0,0,2014,Northern
+Shasta,0,0,0,0,0,0,0,0,0,0,0,0,0,2014,Northern
+Siskiyou,0,0,0,0,0,0,0,0,0,0,0,0,0,2014,Northern
+Mendocino,"13,207",23,4,19,6,443,"12,576",36,1,0,1,91,7,2014,Northern
+Nevada,212,0,0,18,7,0,16,2,0,0,0,168,1,2014,Northern
+Placer,552,0,0,14,5,16,6,19,1,1,4,483,3,2014,Northern
+Sierra,0,0,0,0,0,0,0,0,0,0,0,0,0,2014,Northern
+Sutter,0,0,0,0,0,0,0,0,0,0,0,0,0,2014,Northern
+Yuba,126,1,1,15,18,7,1,3,0,0,49,31,0,2014,Northern
+San Mateo,9,0,0,0,5,0,0,0,2,0,0,1,1,2014,Northern
+Santa Cruz,15,3,2,3,1,0,0,0,0,0,0,6,0,2014,Northern
+Alameda,130,0,0,0,18,6,0,2,0,0,0,89,15,2014,Northern
+Contra Costa,210,1,0,0,83,1,0,2,0,0,0,107,16,2014,Northern
+Santa Clara,269,23,0,0,0,5,0,0,150,0,1,7,83,2014,Northern
+W. San Joaquin,0,0,0,0,0,0,0,0,0,0,0,0,0,2014,Northern
+W. Stanislaus,22,0,0,0,0,0,0,0,0,0,0,18,4,2014,Northern
+E. Trinity,466,0,0,0,0,0,2,3,0,0,0,0,461,2014,Northern
+Shasta,"12,918",9,2,56,5,74,5,3,2,0,4,82,"12,676",2014,Northern
+Shasta,0,0,0,0,0,0,0,0,0,0,0,0,0,2014,Northern
+Siskiyou,292,229,1,1,1,0,35,2,0,0,0,22,1,2014,Northern
+Colusa,16,0,0,0,0,0,0,0,15,0,0,0,1,2014,Northern
+Lake,343,0,15,34,4,4,0,6,6,0,0,183,91,2014,Northern
+Napa,"10,956",1,0,4,11,"4,331",0,"6,497",0,0,9,102,1,2014,Northern
+Solano,94,0,0,1,0,92,0,0,0,0,0,1,0,2014,Northern
+Sonoma,82,0,1,8,18,41,0,9,0,0,0,4,1,2014,Northern
+Yolo,400,0,0,0,3,23,0,2,0,0,1,1,370,2014,Northern
+Glenn,1,0,0,0,0,0,0,0,0,0,0,1,0,2014,Northern
+Tehama,338,1,0,13,4,11,3,19,1,0,0,274,12,2014,Northern
+Fresno,242,37,2,5,14,43,1,8,0,0,0,129,3,2014,Southern
+Kings,6,0,0,0,0,0,0,5,0,0,0,0,1,2014,Southern
+Madera,998,2,0,4,1,28,0,321,0,0,1,633,8,2014,Southern
+Mariposa,527,0,131,4,2,0,0,68,0,0,1,30,291,2014,Southern
+Merced,39,0,0,0,15,0,0,0,0,0,0,23,1,2014,Southern
+Riverside,372,2,10,8,6,9,2,10,101,0,1,184,39,2014,Southern
+Monterey,374,0,0,1,3,4,0,257,0,0,0,2,107,2014,Southern
+San Benito,24,0,0,0,3,0,0,12,0,0,0,6,3,2014,Southern
+Inyo,137,0,0,1,0,5,0,0,0,0,0,131,0,2014,Southern
+San Bernardino,37,2,12,4,0,0,0,2,0,0,1,15,1,2014,Southern
+San Diego,927,1,0,10,6,1,2,18,0,0,1,857,31,2014,Southern
+San Luis Obispo,112,0,23,2,31,6,0,0,0,0,0,15,35,2014,Southern
+Tulare,321,65,7,1,178,2,0,1,0,0,1,16,50,2014,Southern
+Calaveras,322,1,1,10,13,218,7,14,4,0,0,45,9,2014,Southern
+E. San Joaquin,51,0,0,0,17,20,0,11,0,0,0,0,3,2014,Southern
+E. Stanislaus,395,8,1,0,1,11,0,0,0,0,0,351,23,2014,Southern
+Tuolumne,725,5,1,9,22,3,11,2,0,0,0,121,551,2014,Southern

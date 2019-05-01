@@ -1,0 +1,40 @@
+county,.25 acres or <,.26-9.99 acres,10-99 acres,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >,year,region
+Amador,25,15,1,0,0,0,0,2010,north
+El Dorado,69,38,2,0,0,0,0,2010,north
+Sacramento,5,15,2,1,0,0,0,2010,north
+San Joaquin,4,6,0,0,0,0,0,2010,north
+Plumas,0,0,0,0,0,0,0,2010,north
+Tehama,0,0,0,1,0,0,0,2010,north
+Butte,38,40,6,1,0,0,0,2010,north
+Del Norte,17,7,0,0,0,0,0,2010,north
+Humboldt,56,24,0,1,0,0,0,2010,north
+Siskiyou,0,0,0,0,0,0,0,2010,north
+W. Trinity,0,0,0,0,0,0,0,2010,north
+Lassen,22,9,2,1,0,0,0,2010,north
+Modoc,10,5,1,0,0,0,0,2010,north
+Plumas,6,1,0,0,0,0,0,2010,north
+Mendocino,45,36,6,0,0,0,0,2010,north
+Trinity,1,0,0,0,0,0,0,2010,north
+Nevada,37,35,0,0,0,0,0,2010,north
+Placer,48,57,5,0,0,0,0,2010,north
+Sierra,0,3,0,0,0,0,0,2010,north
+Yuba,16,24,1,0,0,1,0,2010,north
+San Mateo,8,7,0,0,0,0,0,2010,north
+Santa Cruz,25,21,0,0,0,0,0,2010,north
+Alameda,12,26,4,2,1,0,0,2010,north
+Contra Costa,26,10,2,2,0,0,0,2010,north
+Santa Clara,12,22,3,0,0,0,0,2010,north
+W. San Joaquin,9,8,3,1,0,0,0,2010,north
+W. Stanislaus,7,16,2,0,1,0,0,2010,north
+E. Trinity,9,5,0,0,0,0,0,2010,north
+Shasta (Shasta-Trinity),36,67,5,1,0,0,0,2010,north
+Shasta (Siskiyou),0,0,0,0,0,0,0,2010,north
+Siskiyou,37,18,2,0,0,0,0,2010,north
+Colusa,0,4,0,0,0,0,0,2010,north
+Lake,20,24,0,0,1,0,0,2010,north
+Napa,14,29,5,0,0,0,0,2010,north
+Solano,2,11,1,0,0,0,0,2010,north
+Sonoma,36,36,3,0,0,0,0,2010,north
+Yolo,1,7,1,0,0,0,0,2010,north
+Glenn,0,4,0,0,0,0,0,2010,north
+Tehama,25,31,3,0,0,0,0,2010,north
